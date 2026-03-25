@@ -1,0 +1,4 @@
+Model,Novelty Rate (%),Diversity
+RNN,95.6,0.85
+BLSTM,100.0,0.746
+Attention,100.0,0.432
